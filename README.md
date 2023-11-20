@@ -209,7 +209,7 @@ Exacute 'shell.exec("C:/Users/jhaow")' to open out directory.
 
 按照指示执行`shell.exec("C:/Users/jhaow")`后即可自动打开输出目录。可以看到已经下载好啦
 
-![image-20231030174910837](D:%5CBaiduSyncdisk%5C02_Study%5CR_build%5Cbuild%5Crbilidown%5CREADME.assets%5Cimage-20231030174910837.png)
+![image-20231030174910837](https://raw.githubusercontent.com/JiahaoWongg/picBed/main/202311202324178.png)
 
 #### 指定参数
 
@@ -634,4 +634,4 @@ All video download succeed!
 
 ![image-20231114104836017](https://raw.githubusercontent.com/JiahaoWongg/picBed/main/202311141048204.png)
 
-肥肠滴方便~
+肥肠滴方便~s
